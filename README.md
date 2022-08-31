@@ -18,14 +18,14 @@ No requirements!
 
 ## Google Search
 - Uses a form to conduct google a google search, the "I'm Feeling Lucky" button takes user to the first search result.
-![search-photo](https://user-images.githubusercontent.com/89746098/187576247-a43184fa-337a-4b9e-a3ab-73ffab553a50.jpg)
+![search-photo](https://user-images.githubusercontent.com/89746098/187576590-a4e626b3-b21d-4ec2-b7ea-a62a335a7e32.jpg)
 
 ## Google Image Search
 - Uses a form and redirect user to images based on query.
-![image-photo](https://user-images.githubusercontent.com/89746098/187576273-b11cf534-baf2-477c-aac2-e4d09dfbe10d.jpg)
+![image-photo](https://user-images.githubusercontent.com/89746098/187576595-7dcea593-6653-4c71-ba94-b724e2b3eee3.jpg)
 
 
 ## Google Advanced Search
 - Uses advanced search filters to provide a more specific query result.
-![advanced-search-photo](https://user-images.githubusercontent.com/89746098/187576303-7e477386-a675-4fea-a412-153474840fc8.jpg)
+![advanced-search-photo](https://user-images.githubusercontent.com/89746098/187576599-b4a296e1-481f-47d5-bc96-907fa6720fa4.jpg)
 
